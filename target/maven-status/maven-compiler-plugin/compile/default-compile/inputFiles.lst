@@ -1,0 +1,16 @@
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/manager/entity/Protocol.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/exception/DownloadFailedException.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/manager/entity/Downloadable.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/downloader/factory/DownloaderFactory.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/manager/DownloadManager.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/manager/entity/DownloadStatus.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/manager/DownloadManagerImpl.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/exception/AlreadyDownloadedException.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/manager/entity/URLWithCredentialsDownloadable.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/downloader/AbstractDownloader.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/downloader/protocol/SFTPDownloader.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/downloader/protocol/HttpDownloader.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/downloader/DownloadSummary.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/downloader/protocol/FTPDownloader.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/manager/entity/URLDownloadble.java
+/Users/nikhil/Documents/workspace/DownloadManager/src/main/java/com/agoda/downloadmanager/downloader/Downloader.java

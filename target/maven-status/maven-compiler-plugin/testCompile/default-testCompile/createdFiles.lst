@@ -1,0 +1,2 @@
+com/agoda/downloader/unit/HttpDownloaderTest.class
+com/agoda/downloader/integration/DownloadE2ETest.class

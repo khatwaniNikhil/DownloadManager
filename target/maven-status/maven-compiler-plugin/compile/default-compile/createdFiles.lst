@@ -1,0 +1,16 @@
+com/agoda/downloadmanager/manager/DownloadManager.class
+com/agoda/downloadmanager/downloader/protocol/HttpDownloader.class
+com/agoda/downloadmanager/downloader/DownloadSummary.class
+com/agoda/downloadmanager/downloader/protocol/FTPDownloader.class
+com/agoda/downloadmanager/downloader/protocol/SFTPDownloader.class
+com/agoda/downloadmanager/downloader/factory/DownloaderFactory.class
+com/agoda/downloadmanager/manager/entity/URLWithCredentialsDownloadable.class
+com/agoda/downloadmanager/exception/AlreadyDownloadedException.class
+com/agoda/downloadmanager/manager/entity/DownloadStatus.class
+com/agoda/downloadmanager/manager/entity/Protocol.class
+com/agoda/downloadmanager/manager/entity/Downloadable.class
+com/agoda/downloadmanager/manager/entity/URLDownloadble.class
+com/agoda/downloadmanager/exception/DownloadFailedException.class
+com/agoda/downloadmanager/downloader/Downloader.class
+com/agoda/downloadmanager/downloader/AbstractDownloader.class
+com/agoda/downloadmanager/manager/DownloadManagerImpl.class
